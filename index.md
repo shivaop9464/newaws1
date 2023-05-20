@@ -17,6 +17,10 @@ Create and publish a sample test.html file.
 Test the page with the public IP address of EC2 Instance created.
 Lab Details
 This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+{: .note }
+THIS IS A NOTE PAGE ITS WORKING
+[AWS BLOG](https://zacks.one/aws-ec2-lab/).
+
 
 You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
 
