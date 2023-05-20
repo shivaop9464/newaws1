@@ -1,7 +1,7 @@
 
 ---
-title: AWS
-layout:AWS
+title: Aws
+layout:Aws
 published: true
 ---
 checking aws
