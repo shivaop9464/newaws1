@@ -19,6 +19,8 @@ Lab Details
 This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
 {: .note }
 THIS IS A NOTE PAGE ITS WORKING.
+{: .note }
+To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
 
 
 You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
