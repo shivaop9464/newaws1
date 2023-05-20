@@ -8,7 +8,8 @@ published: true
 ## Getting started
 EX :
 Task Details
-Log into AWS Management Console.
+{: . warning }
+> Log into AWS Management Console.
 Create an Amazon Linux Instance from an Amazon Linux AMI
 Find your instance in the AWS Management Console.
 SSH into your instance.
