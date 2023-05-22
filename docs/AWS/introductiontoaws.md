@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: introduction-to-aws
+title: introductiontoaws
 parent: AWS
 nav_order: 2
 ---
