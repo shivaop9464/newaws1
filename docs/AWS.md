@@ -9,10 +9,10 @@ published: true
 ## Table of contents
 {: .no_toc .text-delta }
 
-1.introduction to aws
+1. TOC
+{:toc}
 
 ---
-
 ## introduction to  aws
 Lab Details
 This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
