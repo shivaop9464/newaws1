@@ -9,9 +9,7 @@ published: true
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-{:toc}
-
+1.introduction to aws
 
 ---
 
@@ -101,4 +99,3 @@ You can use Spot Instance as additional compute capacity to your On-Demand or Re
 EC2 Spot Instances can be launched the same way you launch EC2 Instance, like using Spot Fleet. Auto Scaling Groups or AWS Management Console.
 If AWS terminates or stops your Amazon EC2 Spot Instance within an hour then you will not be charged.
 However, if you choose to stop or terminate your newly launched Spot Instances by yourself, you will have to pay for the total number of seconds you have used.
-
