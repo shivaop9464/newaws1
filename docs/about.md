@@ -6,7 +6,7 @@ nav_order: 2
 
 
 
- # Introduction #
+ <h1>introduction</h1>
  
 What is EC2 Spot Instance
 Spot Instances are an unused part of Amazon EC2, using which you can save up to 90% on cost as compared to On-Demand cost, but AWS can interrupt your spot instances if the Current Price is higher than the Maximum Price you specified.
