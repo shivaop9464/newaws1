@@ -13,7 +13,7 @@ nav_order: 2
 {:toc}
 
 ---
-## introduction to  aws
+# Introduction to  aws
 Lab Details
 This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
 
