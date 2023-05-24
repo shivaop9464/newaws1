@@ -1,7 +1,7 @@
 ---
+layout: default
 title: About
-layout: About
-published: true
+nav_order: 2
 ---
 
 
