@@ -1,7 +1,7 @@
 ---
-title: AWS
-layout: AWS
-published: true
+layout: default
+title: aws
+nav_order: 2
 ---
 # AWS
 {: .no_toc }
