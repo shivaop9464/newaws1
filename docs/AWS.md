@@ -14,88 +14,100 @@ nav_order: 2
 
 ---
 # Introduction to  aws
-Lab Details
-This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+Cloud Computing-
+ - delivery of computing services by creating virtual servers over internet.
 
-You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
+DataCenter -
+Ex: Airtel.
+At a time, millions of calls.
+to do all those of jobs to connect, disconnect calls, data services you need of computing.
 
-Duration: 30 minutes
+After Cloud Computing came in, companies need not maintain data center. AWS, Azure, Google Cloud Platform (GCP) run these data centers, which are given as a service to Companies like Airtel, OLA, Swiggy. 
 
-AWS Region: US East (N. Virginia) us-east-1
-Lab Details
-This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+Cloud Providers -
 
-You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
+AWS (Amzon Web Services)
+Azure (Microsoft)
+GCP (Google)
 
-Duration: 30 minutes
+Private DataCenter -
+Security - Banks.
+They want to move, not moved yet.
 
-AWS Region: US East (N. Virginia) us-east-1
-Lab Details
-This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+---------------------------------
+Iaas - Infra as a service
+Paas - Platform as a service
+Saas - Software as a service
 
-You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
+Ex - Email service (gmail)
 
-Duration: 30 minutes
+to host a gmail service- servers, storage, network
+Gmail - Saas (providing software)
+AWS, Azure or GCP - Iaas (providing infra)
+IBM Bluemix - Paas (.NET platform)
 
-AWS Region: US East (N. Virginia) us-east-1
-Lab Details
-This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+--------------------------------
+Region and Availability Zone
 
-You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
+31 Regions, 99 AZs.
 
-Duration: 30 minutes
+Regions - Mumbai and Hyderabad
+for Disaster Recovery purpose.
+Mumbai -3 different locaitons. we call them Availbility Zones.
+Mumbai -ap-south-1a, ap-south-1b-ap-south-1c
+Min 2 Azs and max upto 6Azs.
 
-AWS Region: US East (N. Virginia) us-east-1
-## what is aws
+How many Az's does Hyderbad(ap-south-2) have -3
+How many AZ's does North Virginia(us-east-1) have -6 
 
-Lab Details
-This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+--------------------------------
+Amazon Web Services
 
-You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
+Established - 2006
+highly reliable, scalable and low cost infra in the cloud.
 
-Duration: 30 minutes
+Iaas - Infra as a service. Ex: AWS, Azure, GCP
+They give compute, memory and storage. you use this to create an instance and deploy you webapp.
 
-AWS Region: US East (N. Virginia) us-east-1Lab Details
-This lab walks you through the steps to launch and configure a virtual machine in the Amazon cloud.
+Paas - Platform as a service
+Ex: SalesForce, SAP 
 
-You will practice using Amazon Machine Images to launch Amazon EC2 Instances and use key pairs for SSH authentication to log into your instance. You will create a web page and publish it.
+Saas - Software as a service
+Ex: Gmail, Dropbox
+Gmail - 
+you are not spinning up infra
+you are not installing any email software
 
-Duration: 30 minutes
+Benefits of Cloud Computing-
+1. Low Cost - 10/- rs per hour. i'll give a system with cpu, memory and storage.
+Laptop - 40-50k rupees
 
-AWS Region: US East (N. Virginia) us-east-1
+2. Elasticity and Agility - 
+Ex: OLA. 
+normal time - 100%
+peak 9-11am or 6-8pm - 140%
+non-peak 10pm-5am. 40% capacity
+
+3. Open and Flexible
+Ex: Operating System licensing issues.
+
+4. Secure
+Ex: Same security for everyone using.
+
+5. Global Reach
+within minutes i can deploy it globally.
 
 
-## aws
+Ref -
+https://aws.amazon.com/marketplace
+https://aws.amazon.com/free
 
-Introduction
-What is EC2 Spot Instance
-Spot Instances are an unused part of Amazon EC2, using which you can save up to 90% on cost as compared to On-Demand cost, but AWS can interrupt your spot instances if the Current Price is higher than the Maximum Price you specified.
-Spot uses the same EC2 instances (AMI and instance type) what On-Demand and Reserved Instances use. It is the best to fit for use cases where data is reproducible and can sustain the interruption at any point in time.
-You can use Spot Instance as additional compute capacity to your On-Demand or Reserved Instances, where fault-tolerant is acceptable.
-EC2 Spot Instances can be launched the same way you launch EC2 Instance, like using Spot Fleet. Auto Scaling Groups or AWS Management Console.
-If AWS terminates or stops your Amazon EC2 Spot Instance within an hour then you will not be charged.
-However, if you choose to stop or terminate your newly launched Spot Instances by yourself, you will have to pay for the total number of seconds you have used.
-Introduction
-What is EC2 Spot Instance
-Spot Instances are an unused part of Amazon EC2, using which you can save up to 90% on cost as compared to On-Demand cost, but AWS can interrupt your spot instances if the Current Price is higher than the Maximum Price you specified.
-Spot uses the same EC2 instances (AMI and instance type) what On-Demand and Reserved Instances use. It is the best to fit for use cases where data is reproducible and can sustain the interruption at any point in time.
-You can use Spot Instance as additional compute capacity to your On-Demand or Reserved Instances, where fault-tolerant is acceptable.
-EC2 Spot Instances can be launched the same way you launch EC2 Instance, like using Spot Fleet. Auto Scaling Groups or AWS Management Console.
-If AWS terminates or stops your Amazon EC2 Spot Instance within an hour then you will not be charged.
-However, if you choose to stop or terminate your newly launched Spot Instances by yourself, you will have to pay for the total number of seconds you have used.
-Introduction
-What is EC2 Spot Instance
-Spot Instances are an unused part of Amazon EC2, using which you can save up to 90% on cost as compared to On-Demand cost, but AWS can interrupt your spot instances if the Current Price is higher than the Maximum Price you specified.
-Spot uses the same EC2 instances (AMI and instance type) what On-Demand and Reserved Instances use. It is the best to fit for use cases where data is reproducible and can sustain the interruption at any point in time.
-You can use Spot Instance as additional compute capacity to your On-Demand or Reserved Instances, where fault-tolerant is acceptable.
-EC2 Spot Instances can be launched the same way you launch EC2 Instance, like using Spot Fleet. Auto Scaling Groups or AWS Management Console.
-If AWS terminates or stops your Amazon EC2 Spot Instance within an hour then you will not be charged.
-However, if you choose to stop or terminate your newly launched Spot Instances by yourself, you will have to pay for the total number of seconds you have used.
-Introduction
-What is EC2 Spot Instance
-Spot Instances are an unused part of Amazon EC2, using which you can save up to 90% on cost as compared to On-Demand cost, but AWS can interrupt your spot instances if the Current Price is higher than the Maximum Price you specified.
-Spot uses the same EC2 instances (AMI and instance type) what On-Demand and Reserved Instances use. It is the best to fit for use cases where data is reproducible and can sustain the interruption at any point in time.
-You can use Spot Instance as additional compute capacity to your On-Demand or Reserved Instances, where fault-tolerant is acceptable.
-EC2 Spot Instances can be launched the same way you launch EC2 Instance, like using Spot Fleet. Auto Scaling Groups or AWS Management Console.
-If AWS terminates or stops your Amazon EC2 Spot Instance within an hour then you will not be charged.
-However, if you choose to stop or terminate your newly launched Spot Instances by yourself, you will have to pay for the total number of seconds you have used.
+
+
+
+
+
+
+
+
+
