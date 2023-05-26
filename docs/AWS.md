@@ -1,6 +1,6 @@
 ---
 layout: default
-title: aws
+title: AWS
 nav_order: 2
 ---
 # AWS
