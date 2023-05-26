@@ -13,7 +13,7 @@ nav_order: 2
 {:toc}
 
 ---
-# Introduction to  aws
+# Introduction to  AWS
 Cloud Computing-
  - delivery of computing services by creating virtual servers over internet.
 
