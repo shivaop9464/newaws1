@@ -243,6 +243,80 @@ https://aws.amazon.com/ec2/pricing/on-demand/
 10.	What is VPC peering.<br>
 
 
+## Day 03 - AMI-SPOT-ASG
+
+ ### AMI -
+Create an AMI from an existing instances
+its a backup of your instance. you take AMI at regular intervals.
+Once instance is terminated. AMI still exists.
+
+AMI is stored on S3. it will apply standard S3 charges.
+
+
+ ### Spot Instance
+
+OnDemand Instances - 
+Reserved Instances -
+
+Mumbai Region -> AZ
+10,0000 servers
+
+Total servers used - 9000
+Reserved - 7000
+OnDemand - 2000
+unused capacity -1000 servers
+
+Amazon dont want to keep it idle.
+reduced price - Spot capacity -1000 servers
+500 servers removed from spot.t
+they put it under ondemand
+
+Uber- 4000 servers
+3000 servers - Reserved Instances 1 yr
+1000 servers - OnDemand
+peak period - 9-10am, 6-7pm office
+500 servers - spot capacity
+
+
+Zomato - 5000 serers 
+4000 servers - Reserved (10pm-5am)
+1000 servers - OnDemand (5am-11am)
+Peak period - 31st night, everyday during breakfast/lunch/dinner time. (9am-11am)
+500 servers - spot capacity - XX. they pay ondemand price for 500 servers
+
+----------------------------
+Auto-Scaling
+
+AutoScaling - automatically increase or decrease of the compute capacity.
+
+benefits of auto-scaling
+high availability.
+fault tolernace -replacing unhealthy instance with a healthy instance.
+cost savings.
+high performance.
+FREE
+
+lab demo.
+
+------------------------------
+
+Weekend Assignment -
+
+How many ways can you create an EC2 instance
+
+1. AWS Console.
+2. Auto Scaling Group
+3. CloudFormation
+4. CLI Commands
+5. 
+6. 
+
+
+
+
+
+
+
 
 
 
