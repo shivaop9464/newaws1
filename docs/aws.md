@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AWS
-nav_order: 2
+nav_order: 10
 ---
 # AWS
 {: .no_toc }
