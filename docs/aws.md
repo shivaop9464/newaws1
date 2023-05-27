@@ -3,7 +3,7 @@ layout: default
 title: AWS
 nav_order: 2
 ---
-# Day 01-Intro to AWS
+ **Day 01-Intro to AWS**
 {: .no_toc }
 
 ## Table of contents
