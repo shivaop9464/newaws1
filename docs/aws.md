@@ -13,8 +13,8 @@ nav_order: 2
 {:toc}
 
 
- <h1>Day 01-Intro to AWS</h1><br>
-<h3> Day 01 Assignments</h3><br>
+ ## Day 01-Intro to AWS <br>
+### Day 01 Assignments <br>
 			Day-1_AWS_Assignment 
 			(AWS Regions and EC2)
 
