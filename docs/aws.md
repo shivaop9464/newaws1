@@ -11,6 +11,14 @@ nav_order: 2
 
 1. TOC
 {:toc}
+<details>
+<summary>Day 01-Intro to AWS</summary>
+<br>
+	### Day 01 Assignments
+	### Day 01 Assignments solutions
+	### Day 01 NOTES
+
+</details>
 
 ## Day 01-intro to AWS
 ### Day 01 Assignments
