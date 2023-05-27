@@ -11,16 +11,10 @@ nav_order: 2
 
 1. TOC
 {:toc}
-<ul>
-  <li>### Day 01 Assignments</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ul>
 
 
-## Day 01-intro to AWS
-### Day 01 Assignments
+ <h1>Day 01-Intro to AWS</h1><br>
+<h3> Day 01 Assignments</h3><br>
 			Day-1_AWS_Assignment 
 			(AWS Regions and EC2)
 
