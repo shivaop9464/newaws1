@@ -308,8 +308,24 @@ How many ways can you create an EC2 instance
 2. Auto Scaling Group
 3. CloudFormation
 4. CLI Commands
-5. 
-6. 
+
+###  Day-3_AWS_Assignment 
+
+
+                    Day-3_AWS_Assignment 
+            (AMI, Auto-Scaling, Spot Instances)
+
+1.	What is an auto-scaling and what are its components?
+2.	What are the benefits of auto scaling?
+3.	What are Spot Instances?
+4.	What is AMI? List five commonly used AMI along with ami-id available on AWS Marketplace.
+5.	Where are AMI stored? 
+6.	What is Launch Configuration?
+7.	What are the different parameters which you configure to Auto Scale instances?
+8.	What are EC2 Spot Blocks?
+9.	What is the difference between Savings Plan and Reserved Instances?
+10.	What are Capacity Reservations?
+
 
 
 
