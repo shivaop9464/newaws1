@@ -121,7 +121,7 @@ within minutes i can deploy it globally.
 Ref -
 [https://aws.amazon.com/marketplace](https://aws.amazon.com/marketplace)<br>
 [https://aws.amazon.com/free](https://aws.amazon.com/free)<br><br>
-##  Day 02 - AWS EC2, VPC<br>
+##  Day 02 - AWS EC2, VPC
 
 To create a virtual or Physical machine-
 1. Storage			- EBS
@@ -207,7 +207,7 @@ Public Route (we connected igw)
 public ip -  3.111.47.72 - ip changes on every reboot
 private ip - 172.0.10.171 - constant<br><br>
 
-### Elastic IP - 13.200.42.3<br><br>
+### Elastic IP - 13.200.42.3
 OLA, Swiggy
 Computer capacity - 1000 servers (on-demand capacity)
 Peak Period - +500 servers (Spot capacity)
@@ -223,10 +223,10 @@ Reference -
 Instance types:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instances-and-amis.html
 
-https://aws.amazon.com/ec2/pricing/on-demand/<br><br>
+https://aws.amazon.com/ec2/pricing/on-demand/
 
 
-###   Day-2_AWS_Assignment <br><br>
+###   Day-2_AWS_Assignment
 
                    Day-2_AWS_Assignment 
             (EC2 Security Groups, VPC and Subnets)
@@ -243,15 +243,15 @@ https://aws.amazon.com/ec2/pricing/on-demand/<br><br>
 10.	What is VPC peering.<br>
 
 
-## Day 03 - AMI-SPOT-ASG<br><br>
+## Day 03 - AMI-SPOT-ASG<br>
 
- ### AMI - <br><br>
+ ### AMI <br>
 Create an AMI from an existing instances
 its a backup of your instance. you take AMI at regular intervals.
 Once instance is terminated. AMI still exists.
 
 AMI is stored on S3. it will apply standard S3 charges.
-### Spot Instance<br><br>
+### Spot Instance<br>
 
 OnDemand Instances - 
 Reserved Instances -
@@ -307,7 +307,7 @@ How many ways can you create an EC2 instance
 3. CloudFormation
 4. CLI Commands
 
-###  Day-3_AWS_Assignment <br><br>
+###  Day-3_AWS_Assignment <br>
 
 
                     Day-3_AWS_Assignment 
