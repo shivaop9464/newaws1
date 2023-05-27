@@ -244,8 +244,6 @@ https://aws.amazon.com/ec2/pricing/on-demand/
 
 
 ## Day 03 - AMI-SPOT-ASG<br>
-
- ### AMI <br>
 Create an AMI from an existing instances
 its a backup of your instance. you take AMI at regular intervals.
 Once instance is terminated. AMI still exists.
@@ -323,6 +321,8 @@ How many ways can you create an EC2 instance
 8.	What are EC2 Spot Blocks?
 9.	What is the difference between Savings Plan and Reserved Instances?
 10.	What are Capacity Reservations?
+
+
 
 
 
