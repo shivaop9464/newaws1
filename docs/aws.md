@@ -3,7 +3,7 @@ layout: default
 title: AWS
 nav_order: 2
 ---
- **Day 01-Intro to AWS**
+# Customization
 {: .no_toc }
 
 ## Table of contents
@@ -11,8 +11,12 @@ nav_order: 2
 
 1. TOC
 {:toc}
-### Day 01 Assignments
-<br>
+
+---
+## intro to aws
+
+### Day-1_AWS_Assignment 
+
 			Day-1_AWS_Assignment 
 			(AWS Regions and EC2)
 
