@@ -121,7 +121,7 @@ within minutes i can deploy it globally.
 Ref -
 [https://aws.amazon.com/marketplace](https://aws.amazon.com/marketplace)<br>
 [https://aws.amazon.com/free](https://aws.amazon.com/free)<br><br>
-##  Day 01 - AWS EC2, VPC<br>
+##  Day 02 - AWS EC2, VPC<br>
 
 To create a virtual or Physical machine-
 1. Storage			- EBS
@@ -177,7 +177,8 @@ Allocate a new EIP (13.233.45.109)
 Associate Elastic Ip
 Instance (i-0e20xx)
 
-Connect using putty using Elastic-IP.
+
+ ### Connect using putty using Elastic-IP.
 --------------------------------------
 Clean-up
 
@@ -208,7 +209,7 @@ Public Route (we connected igw)
 
 public ip -  3.111.47.72 - ip changes on every reboot
 private ip - 172.0.10.171 - constant
-Elastic IP - 13.200.42.36
+ ### Elastic IP - 13.200.42.36
 -----------------------------
 OLA, Swiggy
 Computer capacity - 1000 servers (on-demand capacity)
