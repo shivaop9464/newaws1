@@ -176,9 +176,7 @@ Elastic Ip -
 Allocate a new EIP (13.233.45.109)
 Associate Elastic Ip
 Instance (i-0e20xx)
-
-
- ### Connect using putty using Elastic-IP.
+### Connect using putty using Elastic-IP
 Clean-up
 
 Goto Storage -> Under Bloc devices - if Delete on Termination set to Yes.
@@ -208,7 +206,7 @@ Public Route (we connected igw)
 
 public ip -  3.111.47.72 - ip changes on every reboot
 private ip - 172.0.10.171 - constant
- ### Elastic IP - 13.200.42.3
+ ###  Elastic IP - 13.200.42.3
 OLA, Swiggy
 Computer capacity - 1000 servers (on-demand capacity)
 Peak Period - +500 servers (Spot capacity)
