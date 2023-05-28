@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Day 01 -Intro to AWS
-nav_order: 1
+title: Day 01-Intro to AWS
+parent: Utilities
 ---
