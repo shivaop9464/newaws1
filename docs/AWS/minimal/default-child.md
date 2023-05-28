@@ -1,7 +1,7 @@
 ---
 title: Default layout child page
 layout: default
-parent: A minimal layout page 
+parent: A minimal AWS page 
 grand_parent: Layout
 ---
 
