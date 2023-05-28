@@ -1,8 +1,6 @@
 ---
-layout: default
 title: AWS
-nav_order: 6
+layout: default
+nav_order: 4.5
 has_children: true
-permalink: docs/AWS
 ---
-AWS check
