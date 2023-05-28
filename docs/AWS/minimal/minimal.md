@@ -1,5 +1,5 @@
 ---
-title: A minimal layout page
+title: Day 01 -Assignment
 layout: minimal
 parent: AWS
 has_children: true
