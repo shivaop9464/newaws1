@@ -1,6 +1,6 @@
 ---
 title: Day 01- Assignment
-layout: default
+layout: minimal
 parent: minimal
 grand_parent: AWS
 ---
