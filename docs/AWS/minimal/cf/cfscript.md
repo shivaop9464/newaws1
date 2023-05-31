@@ -1,6 +1,6 @@
 ---
 title: CF Script
 layout: cf
-parent: AWS
+parent: minimal
 has_children: true
 ---
